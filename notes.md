@@ -1,4 +1,4 @@
 NOTES
 # il s'agit
-# d'une texte
+# d'un texte
 # libre
