@@ -2,3 +2,6 @@
 
 
 ex8 : modification depuis GitHub
+
+
+URL du site GitHub Pages : https://adrienliossatos.github.io/tp-git-qqch/ 
