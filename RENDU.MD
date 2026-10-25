@@ -19,3 +19,9 @@ Untracked files:
 	.DS_Store
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+## Exercice 7 : annuler un commit, mettre de côté
+
+3. stash@{0}: WIP on main: 7cad9bc Revert "ex7 : ajoute une ligne par erreur"
+stash@{1}: WIP on main: 7cad9bc Revert "ex7 : ajoute une ligne par erreur"
+stash@{2}: WIP on main: 7cad9bc Revert "ex7 : ajoute une ligne par erreur"
