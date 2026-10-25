@@ -25,3 +25,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 3. stash@{0}: WIP on main: 7cad9bc Revert "ex7 : ajoute une ligne par erreur"
 stash@{1}: WIP on main: 7cad9bc Revert "ex7 : ajoute une ligne par erreur"
 stash@{2}: WIP on main: 7cad9bc Revert "ex7 : ajoute une ligne par erreur"
+
+## Exercice 9 : GitHub Pages 
+
+3. URL du site GitHub Pages : https://adrienliossatos.github.io/tp-git-qqch/ 
